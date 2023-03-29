@@ -1,0 +1,11 @@
+--2023-03-28 22:48:11--  https://training.olicyber.it/api/file/c0a26ff7-0a41-442c-b036-0ad71b832aa6/bel%20paesaggio.gif?download=
+Resolving training.olicyber.it (training.olicyber.it)... 104.21.89.84, 172.67.157.96, 2606:4700:3031::6815:5954, ...
+Connecting to training.olicyber.it (training.olicyber.it)|104.21.89.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391787 (383K) [application/octet-stream]
+Saving to: ‘bel paesaggio.gif?download=’
+
+bel paesaggio.gif?download=                          0%[                                                                                                              ]       0  --.-KB/s               bel paesaggio.gif?download=                        100%[=============================================================================================================>] 382.60K  --.-KB/s    in 0.1s    
+
+2023-03-28 22:48:12 (2.62 MB/s) - ‘bel paesaggio.gif?download=’ saved [391787/391787]
+
