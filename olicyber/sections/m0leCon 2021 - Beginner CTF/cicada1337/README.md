@@ -1,4 +1,7 @@
-- # Writeup: cicada1337
+# Writeup: [cicada1337](https://training.olicyber.it/challenges#challenge-160) di @df1665 ([pwnth3m0le](https://pwnthem0le.polito.it/)) 
+ 
+
+
 - La challenge è suddivisa in vari livelli da superare, ognuno dei quali richiede un'abilità specifica per essere risolta. Ogni livello è stato pensato per essere di difficoltà crescente, in modo da mettere alla prova le diverse abilità dei partecipanti. Come si può notare dal nome, questa challenge si ispira alla famosa serie di puzzle da parte di [Cicada 3301](https://it.wikipedia.org/wiki/Cicada_3301).
   
   Tenete bene a mente quest'ultima informazione, ci servirà dopo!
