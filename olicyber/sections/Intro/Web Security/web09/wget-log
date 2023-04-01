@@ -1,0 +1,11 @@
+--2023-04-02 00:39:52--  https://training.olicyber.it/api/file/4a301206-1f0a-4195-8188-d0927c203b2b/challenge.py?download=
+Resolving training.olicyber.it (training.olicyber.it)... 172.67.157.96, 104.21.89.84, 2606:4700:3036::ac43:9d60, ...
+Connecting to training.olicyber.it (training.olicyber.it)|172.67.157.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 694 [application/octet-stream]
+Saving to: ‘challenge.py?download=’
+
+challenge.py?download=                                        0%[                                                                                                                                         ]       0  --.-KB/s               challenge.py?download=                                      100%[========================================================================================================================================>]     694  --.-KB/s    in 0s      
+
+2023-04-02 00:39:52 (34.5 MB/s) - ‘challenge.py?download=’ saved [694/694]
+
